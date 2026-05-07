@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Generated artifacts — DO commit these so the Streamlit Cloud demo
+# doesn't have to rebuild from raw corpus on every cold start.
+# Sizes are small (~1 MB).
+# (artifacts/ is intentionally NOT gitignored)
+*.faiss
+
+# Data — raw corpus / benchmark are kept out of git, kept in /data locally
+data/Background_Corpus_All.zip
+data/qa_benchmark_dataset.json
+
+# Outputs
+outputs/
+test_outputs.json
+evaluation_results.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets — never commit real secrets.toml
+.streamlit/secrets.toml

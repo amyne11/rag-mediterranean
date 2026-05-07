@@ -1,0 +1,3 @@
+# Build artifacts go here. Run `python scripts/build_index.py` to generate.
+# These are committed to git so the Streamlit Cloud deployment doesn't need
+# to re-build from raw corpus on cold start.

@@ -1,0 +1,12 @@
+# Streamlit Cloud reads this file directly.
+# Slim runtime: just enough to serve the demo. No torch/transformers — the
+# cloud deployment only uses the Gemini backend, not the local Qwen model.
+numpy
+sentence-transformers
+faiss-cpu
+rank_bm25
+nltk
+pyyaml
+openai
+google-genai
+streamlit

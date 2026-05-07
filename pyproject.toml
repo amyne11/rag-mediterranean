@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-culinary"
+version = "0.1.0"
+description = "Retrieval-augmented generation for Mediterranean cuisine Q&A"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+# Slim core: just enough to run the Streamlit demo against a hosted LLM
+# (Gemini or Groq). Skips torch / transformers / bert-score so the cloud
+# install stays under Streamlit's resource limits.
+dependencies = [
+    "numpy",
+    "sentence-transformers",
+    "faiss-cpu",
+    "rank_bm25",
+    "nltk",
+    "pyyaml",
+    "openai",
+    "google-genai",
+    "streamlit",
+]
+
+[project.optional-dependencies]
+# Heavy ML stack — only needed for offline evaluation (BERTScore) and the
+# local Qwen backend. Install with: pip install -e ".[eval]"
+eval = [
+    "torch",
+    "transformers",
+    "accelerate",
+    "sentencepiece",
+    "rouge-score",
+    "bert-score",
+]
+
+# Test/lint tooling
+dev = ["pytest", "ruff"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

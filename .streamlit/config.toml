@@ -1,0 +1,14 @@
+[server]
+# Larger upload cap in case you experiment with file uploads later
+maxUploadSize = 50
+
+[theme]
+# Subtle Mediterranean palette — olive green primary
+primaryColor = "#6B8E23"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5DC"
+textColor = "#2C2C2C"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

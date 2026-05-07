@@ -1,0 +1,1129 @@
+[
+  {
+    "chunk_id": "overlap_andalusian_cuisine.txt_0",
+    "source": "andalusian_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Andalusian cuisine is the regional cuisine of Andalusia in southern Spain. It is strongly shaped by the Mediterranean climate, olive cultivation, and a long history of cultural exchange. The cuisine includes dishes such as gazpacho, fried fish, olive-based foods, and many preparations using vegetables, garlic, and bread. It often makes use of fresh ingredients suited to warm weather. Andalusian cuisine also reflects historical influences from Islamic Spain and other Mediterranean connections. This gives it a distinctive identity within Spanish cuisine. It is an important part of southern Mediterranean food culture.",
+    "token_count": 90
+  },
+  {
+    "chunk_id": "overlap_arancini.txt_0",
+    "source": "arancini.txt",
+    "strategy": "overlap_200_50",
+    "text": "Arancini, also known as arancine, are Italian rice balls that are stuffed, coated with breadcrumbs and deep-fried. They are a staple of Sicilian cuisine. The most common arancini fillings are al ragù or al sugo, i.e. filled with ragù, mozzarella or caciocavallo cheese, and often peas; and al burro or ô burru, i.e. filled with prosciutto and mozzarella or béchamel sauce. A number of regional variants exist which differ in their fillings and shape.",
+    "token_count": 74
+  },
+  {
+    "chunk_id": "overlap_baba_ganoush.txt_0",
+    "source": "baba_ganoush.txt",
+    "strategy": "overlap_200_50",
+    "text": "Baba ghanoush, also spelled baba ghanoush or baba ghanouj, is a Levantine appetizer consisting of finely chopped roasted eggplant, olive oil, lemon juice, various seasonings, and tahini. The eggplant is traditionally roasted, baked or broiled over an open flame before peeling so that the pulp is soft and has a smoky taste. It is a typical meze of the regional cuisine, often served as a side to a main meal and as a dip for pita bread. The word baba in Arabic is a term of endearment for 'father', while Ganouj could be a personal name. The word combination is also interpreted as 'father of coquetry' or 'indulged/pampered/flirtatious daddy' or 'spoiled old daddy'. However, it is not certain whether the word baba refers to an actual person indulged by the dish or to the eggplant.",
+    "token_count": 135
+  },
+  {
+    "chunk_id": "overlap_bacalhau.txt_0",
+    "source": "bacalhau.txt",
+    "strategy": "overlap_200_50",
+    "text": "Bacalhau is a traditional Portuguese dish made from dried and salted cod fish. It is prepared in many different ways and is considered a staple of Portuguese cuisine. Bacalhau reflects the importance of seafood in coastal Mediterranean and Atlantic regions.",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "overlap_baklava.txt_0",
+    "source": "baklava.txt",
+    "strategy": "overlap_200_50",
+    "text": "Baklava is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey. There are several theories for the origin of this pastry, but in modern times, it is a common dessert among cuisines of countries in West Asia, Southeast Europe, Central Asia, and North Africa. It is also enjoyed in South Asia, where, although not a traditional sweet, it has become popular over the years. The word baklava is first attested in English in 1650, a borrowing from Ottoman Turkish: باقلاوه /bɑːklɑvɑː/. The name baklava is used in many languages with minor phonetic and spelling variations. The earliest known reference to baklava is in a poem by the 15th century mystic Kaygusuz Abdal.",
+    "token_count": 122
+  },
+  {
+    "chunk_id": "overlap_basil.txt_0",
+    "source": "basil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Basil is an aromatic herb widely used in Mediterranean cooking, especially in Italian cuisine. It is valued for its fresh flavor and is often combined with tomatoes, olive oil, garlic, and cheese. Basil is used in salads, pasta dishes, sauces, and herb mixtures. It is one of the key ingredients in pesto, where it is blended with olive oil, pine nuts, garlic, and cheese. The herb grows well in warm climates and is commonly associated with summer cooking and fresh ingredients. Its flavor makes it especially important in dishes that emphasize simple preparation. Basil contributes to the distinctive taste and freshness of many Mediterranean recipes.",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "overlap_blog_north_africa.txt_0",
+    "source": "blog_north_africa.txt",
+    "strategy": "overlap_200_50",
+    "text": "This source describes North African cuisine, focusing on dishes such as couscous, tagine, and spice blends like harissa. It highlights the importance of spices, slow cooking methods, and traditional preparation techniques. The blog emphasizes the cultural and regional diversity of Maghrebi cuisine.",
+    "token_count": 42
+  },
+  {
+    "chunk_id": "overlap_blog_portugal.txt_0",
+    "source": "blog_portugal.txt",
+    "strategy": "overlap_200_50",
+    "text": "This source describes Portuguese cuisine, including dishes such as bacalhau and traditional pastries. It highlights the combination of Mediterranean and Atlantic influences, including seafood, olive oil, and regional ingredients. The blog shows how Portuguese cuisine connects to broader Mediterranean food traditions.",
+    "token_count": 41
+  },
+  {
+    "chunk_id": "overlap_blog_southern_france.txt_0",
+    "source": "blog_southern_france.txt",
+    "strategy": "overlap_200_50",
+    "text": "This source describes traditional dishes from southern France, including ratatouille and bouillabaisse. It highlights the use of olive oil, vegetables, seafood, and herbs, which are characteristic of Mediterranean cuisine. The blog emphasizes regional identity and the importance of fresh, local ingredients in Provençal cooking.",
+    "token_count": 44
+  },
+  {
+    "chunk_id": "overlap_blog_turkey_cyprus.txt_0",
+    "source": "blog_turkey_cyprus.txt",
+    "strategy": "overlap_200_50",
+    "text": "This source describes Turkish and Cypriot cuisine, including dishes such as kebabs, börek, and meze. It highlights the use of grilled meats, spices, and shared dishes, which are common in Mediterranean and Middle Eastern food traditions. The blog shows how regional cuisines combine local ingredients with historical influences.",
+    "token_count": 48
+  },
+  {
+    "chunk_id": "overlap_bouillabaisse.txt_0",
+    "source": "bouillabaisse.txt",
+    "strategy": "overlap_200_50",
+    "text": "Bouillabaisse ; Provençal: bolhabaissa is a traditional Provençal fish soup originating in the port city of Marseille. The word is originally a compound of the two Provençal verbs bouillir and baisser. Bouillabaisse was originally a dish made by Marseille fishermen, using bony rockfish, which they were unable to sell to restaurants or markets. There are at least three kinds of fish in a traditional bouillabaisse: typically red rascasse; sea robin; and European conger. It can also include gilt-head bream, turbot, monkfish, mullet, or European hake.",
+    "token_count": 85
+  },
+  {
+    "chunk_id": "overlap_bruschetta.txt_0",
+    "source": "bruschetta.txt",
+    "strategy": "overlap_200_50",
+    "text": "Bruschetta is an Italian appetizer consisting of grilled bread topped with garlic, olive oil, and salt. Most commonly it is served with toppings of tomatoes, vegetables, beans, cured meat or cheese. In Italy, bruschetta is often prepared using a brustolina grill. The noun bruschetta comes from the Romanesco dialect verb bruscare, the equivalent of the Italian word abbrustolire, which means 'to toast', or 'to roast over coals'. Waverley Root noted in 1971 that bruschetto was the Roman term for the dish, with other Italians referring to it as schiena d'asino. In the United States, the word is sometimes used to refer to a prepared topping, sold in jars and usually tomato-based, instead of the bread, a sense which is unknown in Italian.",
+    "token_count": 122
+  },
+  {
+    "chunk_id": "overlap_börek.txt_0",
+    "source": "börek.txt",
+    "strategy": "overlap_200_50",
+    "text": "Börek is a family of savory pastries that are popular in Turkish cuisine and across many regions of the Balkans, the Middle East, and parts of the Mediterranean. The dish is made using thin layers of dough such as yufka or filo pastry, which are filled with various ingredients and then baked or fried. Common fillings for börek include minced meat, cheese, spinach, or potatoes. The pastry is typically layered and brushed with oil or butter before cooking, which creates a flaky and crisp texture. Börek can be prepared as a large pastry baked in a pan and cut into portions, or as smaller individual pastries. It is often eaten as a snack, breakfast food, or appetizer and may be served hot or cold. The dish became widely popular during the Ottoman Empire and spread throughout many neighboring regions, where different variations of börek developed.",
+    "token_count": 145
+  },
+  {
+    "chunk_id": "overlap_caprese_salad.txt_0",
+    "source": "caprese_salad.txt",
+    "strategy": "overlap_200_50",
+    "text": "Caprese salad is an Italian salad composed of sliced fresh mozzarella, tomatoes, and basil, seasoned with salt and olive oil. The salad's name references the island of Capri, where it is believed to have originated. The dish became known internationally in the 1950s, sometimes said to have occurred after it was served to King Farouk of Egypt while visiting the island. In Italy, the dish is often eaten as an appetiser, without vinegar, and sometimes with pepper and olives. The components are used as the basis for various dishes, including uncooked in sandwiches, and lightly cooked in sauces for gnocchi or ravioli. Internationally, serving differs: in the US, it is eaten as a side dish, and in Argentina, components often fill empanadas.",
+    "token_count": 122
+  },
+  {
+    "chunk_id": "overlap_catalan_cuisine.txt_0",
+    "source": "catalan_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Catalan cuisine is the regional cuisine of Catalonia in northeastern Spain. It is part of Mediterranean food culture and is known for its balance of seafood, meat, vegetables, and sauces. The cuisine uses ingredients such as olive oil, tomatoes, garlic, fish, nuts, and herbs. It includes both coastal and inland traditions, reflecting the geography of the region. Catalan cuisine is also known for its strong regional identity and for dishes and preparations that differ from other parts of Spain. It reflects both local agriculture and long historical contact with other Mediterranean cultures. As a regional cuisine, it contributes to the diversity of Spanish and Mediterranean food.",
+    "token_count": 106
+  },
+  {
+    "chunk_id": "overlap_chebakia.txt_0",
+    "source": "chebakia.txt",
+    "strategy": "overlap_200_50",
+    "text": "Chebakia is a traditional Moroccan sesame cookie that is commonly prepared during the month of Ramadan. The pastry is made by shaping strips of dough into a flower-like form, which are then deep-fried until golden and crispy. After frying, the cookies are soaked in honey and coated with sesame seeds. The dough is typically flavored with spices such as cinnamon, anise, saffron, and orange blossom water, which give the dessert a distinctive aroma and taste. Chebakia is often served alongside harira, a traditional Moroccan soup eaten to break the fast during Ramadan. The combination of sweet pastry and warm soup is an important part of Moroccan culinary tradition. Although most commonly associated with Morocco, similar pastries can be found in other North African cuisines, but chebakia remains a distinctive dessert in Moroccan food culture.",
+    "token_count": 134
+  },
+  {
+    "chunk_id": "overlap_chermoula.txt_0",
+    "source": "chermoula.txt",
+    "strategy": "overlap_200_50",
+    "text": "Chermoula is a marinade and sauce used in North African cuisine, especially in Morocco and Algeria. It is made from herbs such as parsley and coriander, combined with garlic, olive oil, lemon juice, and spices. Chermoula is commonly used to flavor fish, seafood, and vegetables, and is an important part of Mediterranean and North African cooking.",
+    "token_count": 56
+  },
+  {
+    "chunk_id": "overlap_churros.txt_0",
+    "source": "churros.txt",
+    "strategy": "overlap_200_50",
+    "text": "A churro is a type of fried dough from Spanish and Portuguese cuisine, made with choux pastry dough piped into hot oil with a piping bag and large closed star tip or similar shape. They are also found in Latin American cuisine, Philippine cuisine and in other areas that have received immigration from Spanish- and Portuguese-speaking countries, especially in France and the Southwestern United States. In Spain, churros can either be thin or long and thick, where they are known as porras, jeringos, or tejeringos in some regions. They are normally eaten for breakfast dipped in coffee, or in hot chocolate for an afternoon snack. There are also two slightly different snacks in Portugal, called porra and fartura, which are filled with jelly instead of the doce de leite traditional to Brazilian churros. The origin of churros is unclear.",
+    "token_count": 139
+  },
+  {
+    "chunk_id": "overlap_citrus.txt_0",
+    "source": "citrus.txt",
+    "strategy": "overlap_200_50",
+    "text": "Citrus fruits such as lemons and oranges are widely used in Mediterranean cuisine. They are used to add freshness and acidity to dishes and are often combined with olive oil and herbs. Citrus fruits are also consumed as part of a healthy diet.",
+    "token_count": 43
+  },
+  {
+    "chunk_id": "overlap_couscous.txt_0",
+    "source": "couscous.txt",
+    "strategy": "overlap_200_50",
+    "text": "Couscous is a traditional North African dish made from small steamed granules of semolina wheat. It is considered a staple food in countries such as Morocco, Algeria, and Tunisia, and it is also widely eaten in many Mediterranean regions. The dish is usually served with a stew made from vegetables, chickpeas, and meat such as lamb or chicken. The couscous grains are steamed until light and fluffy, and the stew is poured over the grains before serving. Couscous is often prepared during family gatherings and special occasions. Different regions have developed their own variations of the dish, using different spices, vegetables, and meats depending on local traditions. Although couscous originated in North Africa, it has become a popular ingredient in many Mediterranean cuisines and is now widely consumed around the world.",
+    "token_count": 131
+  },
+  {
+    "chunk_id": "overlap_couscous_steaming.txt_0",
+    "source": "couscous_steaming.txt",
+    "strategy": "overlap_200_50",
+    "text": "Couscous steaming is a traditional method in North African cuisine. Semolina grains are steamed over a stew, allowing them to absorb flavor while cooking.",
+    "token_count": 24
+  },
+  {
+    "chunk_id": "overlap_dolma.txt_0",
+    "source": "dolma.txt",
+    "strategy": "overlap_200_50",
+    "text": "Dolma is a group of dishes in Mediterranean and Middle Eastern cuisine that consist of vegetables or leaves stuffed with a filling. The name comes from a Turkish word meaning \"to fill\" or \"to stuff.\" The most common type of dolma is made with grape leaves that are wrapped around a mixture of rice, herbs, and sometimes minced meat. Other vegetables such as peppers, eggplants, and zucchini can also be stuffed in a similar way. Dolma is widely prepared in countries such as Turkey, Greece, Lebanon, and other parts of the Mediterranean. The dish is often served as part of a mezze meal or as an appetizer.",
+    "token_count": 107
+  },
+  {
+    "chunk_id": "overlap_dolmades.txt_0",
+    "source": "dolmades.txt",
+    "strategy": "overlap_200_50",
+    "text": "Dolmades are a form of stuffed grape leaves commonly associated with Greek cuisine. They are part of the broader dolma family of dishes found across the Mediterranean and Middle East. The filling usually includes rice, herbs, and sometimes minced meat. The grape leaves are rolled around the filling and cooked until tender. Dolmades are often served as appetizers or as part of a meze-style meal. They may be eaten warm or cold and are commonly accompanied by lemon or yogurt-based sauces. In Greek cuisine, dolmades are an important example of vegetable-based, herb-rich Mediterranean cooking.",
+    "token_count": 94
+  },
+  {
+    "chunk_id": "overlap_doner_kebab.txt_0",
+    "source": "doner_kebab.txt",
+    "strategy": "overlap_200_50",
+    "text": "Doner kebab or döner kebab is a Turkish dish made of meat cooked on a vertical rotisserie. Seasoned meat stacked in the shape of an inverted cone is turned slowly on the rotisserie, next to a vertical cooking element. The operator uses a knife to slice thin shavings from the outer layer of the meat as it cooks. The vertical rotisserie was invented in the 19th-century Ottoman Empire, and dishes such as the Arab shawarma, Greek gyros, Canadian donair, and Mexican al pastor are derived from this. The modern sandwich variant of doner kebab originated and was popularized in 1970s West Berlin by Turkish immigrants. This was recognized by the Berlin-based Association of Turkish Döner Manufacturers in Europe in 2011.",
+    "token_count": 120
+  },
+  {
+    "chunk_id": "overlap_duqqa.txt_0",
+    "source": "duqqa.txt",
+    "strategy": "overlap_200_50",
+    "text": "Duqqa is an Egyptian spice blend made from a mixture of nuts, seeds, and spices. Common ingredients include sesame seeds, coriander, cumin, and nuts such as hazelnuts or almonds. The mixture is ground into a coarse powder and used as a dip or seasoning. It is often eaten with bread dipped in olive oil and duqqa. Duqqa is a distinctive part of Egyptian cuisine and reflects the use of spices and simple ingredients to create flavor.",
+    "token_count": 76
+  },
+  {
+    "chunk_id": "overlap_egyptian_cuisine_overview.txt_0",
+    "source": "egyptian_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Egyptian cuisine is part of Mediterranean and Middle Eastern food traditions and is based on staple ingredients such as grains, legumes, and vegetables. Common dishes include koshari, ful medames, molokhia, and feteer meshaltet. Many meals rely on simple, affordable ingredients such as beans, rice, and bread. Egyptian cuisine reflects ancient culinary traditions that have developed over thousands of years, influenced by trade, agriculture, and cultural exchange. It remains an important part of daily life and social culture in Egypt.",
+    "token_count": 79
+  },
+  {
+    "chunk_id": "overlap_falafel.txt_0",
+    "source": "falafel.txt",
+    "strategy": "overlap_200_50",
+    "text": "Falafel is a deep-fried food made from ground legumes such as chickpeas or fava beans. It is widely consumed across the Middle East. In Egypt, falafel is traditionally made using fava beans rather than chickpeas and is known locally as ta'ameya. The mixture is shaped into balls or patties and fried until crispy. Falafel is commonly served in flatbread with vegetables and sauces. It is a popular street food and an important part of Egyptian and Levantine cuisine.",
+    "token_count": 78
+  },
+  {
+    "chunk_id": "overlap_fattoush.txt_0",
+    "source": "fattoush.txt",
+    "strategy": "overlap_200_50",
+    "text": "Fattoush is a Levantine salad made from toasted or fried pieces of pita combined with mixed greens and other vegetables, such as radishes, cucumber and tomatoes. Fattoush is a common part of meals in communities in the Levant. Fattūsh is derived from the Arabic fatt \"crush\" and the suffix of Turkic origin -ūsh. Coining words this way was common in Levantine Arabic. According to Oxford English Dictionary, the earliest English use of the word fattoush was in 1955 by Stevens Point Journal. According to historian Nawal Nasrallah, recipes of vegetarian tharid reminiscent of fattoush can be found in a 10th-century Arabic cookbook by Ibn Sayyar al-Warraq, using dried and crumbled bread, cucumbers, herbs, and olive oil.",
+    "token_count": 116
+  },
+  {
+    "chunk_id": "overlap_feta.txt_0",
+    "source": "feta.txt",
+    "strategy": "overlap_200_50",
+    "text": "Feta is a brined white cheese traditionally produced in Greece. It is made primarily from sheep's milk, although some varieties may include a mixture of sheep's and goat's milk. The cheese has a crumbly texture and a tangy, slightly salty flavor due to the brining process used during production. Feta is an important ingredient in many Greek and Mediterranean dishes. It is commonly used in salads such as Greek salad, as well as in pastries and baked dishes like spanakopita. Feta can also be served on its own with olive oil, herbs, or vegetables. Because of its distinctive taste and long history in Greek cuisine, feta cheese has become one of the most widely recognized cheeses in the Mediterranean diet.",
+    "token_count": 120
+  },
+  {
+    "chunk_id": "overlap_feteer_meshaltet.txt_0",
+    "source": "feteer_meshaltet.txt",
+    "strategy": "overlap_200_50",
+    "text": "Feteer meshaltet is a traditional Egyptian pastry made from layered dough that is folded and baked until crispy. The pastry can be served either sweet or savory. Sweet versions may include honey, sugar, or cream, while savory versions may include cheese or meat. Feteer meshaltet is often prepared for special occasions and is considered a symbol of Egyptian hospitality.",
+    "token_count": 59
+  },
+  {
+    "chunk_id": "overlap_fettuccine.txt_0",
+    "source": "fettuccine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Fettuccine is a type of Italian pasta made in long, flat ribbons. It is typically wider than spaghetti and is often associated with rich sauces. Because of its shape, fettuccine is commonly served with creamy sauces, butter-based sauces, or meat sauces. It can also be prepared with vegetables or seafood. Fettuccine is part of the broader pasta tradition of Italian cuisine, where different shapes are selected to match the texture and weight of specific sauces. It is an important example of how pasta varieties differ in Mediterranean cooking according to regional style and serving method.",
+    "token_count": 95
+  },
+  {
+    "chunk_id": "overlap_focaccia.txt_0",
+    "source": "focaccia.txt",
+    "strategy": "overlap_200_50",
+    "text": "Focaccia is a flat leavened oven-baked Italian bread. It is similar to a flatbread called pizza bianca in Roman cuisine. In ancient Rome, panis focacius was a flatbread baked on the hearth. The word is derived from the Latin focus, 'hearth, place for baking'. The basic recipe is thought by some to have originated with the Etruscans, but today it is widely associated with Ligurian cuisine, while outside Liguria the word usually refers to the Genoese variants. The first attestation of the word focaccia dates back to the 14th century.",
+    "token_count": 90
+  },
+  {
+    "chunk_id": "overlap_fregola.txt_0",
+    "source": "fregola.txt",
+    "strategy": "overlap_200_50",
+    "text": "Fregola is a type of pasta from Sardinia in Italy. It consists of small, toasted balls of semolina pasta and is often compared to couscous because of its shape. Fregola is commonly used in soups, seafood dishes, and brothy preparations. Its toasted character gives it a distinct flavor compared with other pasta types. The dish reflects the regional diversity of Italian cuisine and shows how Mediterranean food traditions vary between islands and mainland regions. Fregola is an important example of a local pasta tradition within the wider Mediterranean culinary world.",
+    "token_count": 90
+  },
+  {
+    "chunk_id": "overlap_french_olive_oil.txt_0",
+    "source": "french_olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Olive oil is a key component of French cuisine, particularly in the Provençal region in southern France. It is produced from the fruit of olive trees cultivated in Mediterranean climates, especially in areas such as Provence-Alpes-Côte d’Azur and Occitanie. French olive oil is commonly used in cooking, salad dressings, and traditional dishes such as ratatouille and salade niçoise. It is often valued for its flavor, which can range from mild and buttery to more robust and peppery depending on the olive variety and production method. Several protected designations of origin (PDO) exist for French olive oils, ensuring quality and regional authenticity. These include oils produced in regions such as Nyons, Aix-en-Provence, and Haute-Provence. Olive cultivation in France has historical roots dating back to ancient Greek and Roman periods, and it remains an important agricultural and cultural product in southern France.",
+    "token_count": 140
+  },
+  {
+    "chunk_id": "overlap_french_provencal_cuisine_overview.txt_0",
+    "source": "french_provencal_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Provençal cuisine is the traditional cooking style of southern France. It is strongly influenced by Mediterranean ingredients and climate. Common dishes include ratatouille, bouillabaisse, and salade niçoise. Olive oil, herbs, and vegetables are widely used. Provençal cuisine emphasizes fresh ingredients and simple preparation.",
+    "token_count": 43
+  },
+  {
+    "chunk_id": "overlap_ful_medames.txt_0",
+    "source": "ful_medames.txt",
+    "strategy": "overlap_200_50",
+    "text": "Ful medames is a traditional Egyptian dish made from cooked fava beans. It is one of the oldest and most common dishes in Egypt. The beans are slowly cooked and seasoned with olive oil, garlic, lemon juice, and spices. It is often served with bread, vegetables, or eggs. Ful medames is commonly eaten for breakfast and is an important part of Egyptian daily life and cuisine.",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "overlap_garlic.txt_0",
+    "source": "garlic.txt",
+    "strategy": "overlap_200_50",
+    "text": "Garlic is a fundamental ingredient in Mediterranean cooking and is used to enhance flavor in many dishes. It is commonly used in sauces, marinades, and vegetable dishes. Garlic has also been associated with health benefits and is widely used in traditional cooking.",
+    "token_count": 42
+  },
+  {
+    "chunk_id": "overlap_gazpacho.txt_0",
+    "source": "gazpacho.txt",
+    "strategy": "overlap_200_50",
+    "text": "Gazpacho or gaspacho, also called Andalusian gazpacho, is a cold soup and drink made of raw, blended vegetables. It originated in the southern regions of the Iberian Peninsula and spread into other areas. Gazpacho is widely eaten in Spain and Portugal, particularly in summer, since it is refreshing and cool. Although there are other recipes called gazpacho, such as gazpacho manchego, the standard usage implies a soup. There are also a number of dishes that are closely related and often considered variants thereof, such as ajoblanco, salmorejo, pipirrana, porra antequerana, and cojondongo. There are many theories as to the origin of gazpacho, including one that says it was a soup of bread, olive oil, water, vinegar, peas and garlic that arrived in Spain with the Romans.",
+    "token_count": 126
+  },
+  {
+    "chunk_id": "overlap_gnocchi.txt_0",
+    "source": "gnocchi.txt",
+    "strategy": "overlap_200_50",
+    "text": "Gnocchi are a varied family of pasta-like dumplings in Italian cuisine. They are made of small rolls of dough, such as those composed of a simple combination of wheat flour, potato, egg, and salt. Variations of the dish supplement the simple recipe with flavour additives, such as semolina flour, cheese, breadcrumbs, cornmeal or similar ingredients, and possibly including herbs, vegetables, and other ingredients. Base ingredients may be substituted with alternatives, such as sweet potatoes for potatoes or rice flour for wheat flour. Such variations are often considered to be non-traditional. Gnocchi are commonly cooked in salted boiling water and then dressed with various sauces.",
+    "token_count": 104
+  },
+  {
+    "chunk_id": "overlap_grapes.txt_0",
+    "source": "grapes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Grapes are an important agricultural product in Mediterranean regions. They are consumed fresh or used to produce wine. Wine has traditionally been consumed in moderation as part of meals in Mediterranean cultures. Grapes are one of the key elements of the Mediterranean agricultural tradition.",
+    "token_count": 44
+  },
+  {
+    "chunk_id": "overlap_greek_cuisine_overview.txt_0",
+    "source": "greek_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Greek cuisine is an important part of Mediterranean food culture and is known for its use of olive oil, vegetables, herbs, and dairy products. Traditional Greek dishes include moussaka, souvlaki, and Greek salad. Many meals are served as part of a mezze, which consists of multiple small dishes. Greek cuisine reflects the Mediterranean diet and emphasizes fresh and simple ingredients.",
+    "token_count": 60
+  },
+  {
+    "chunk_id": "overlap_greek_olive_oil.txt_0",
+    "source": "greek_olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Greek olive oil is a type of olive oil produced in Greece and is an essential ingredient in Greek cuisine. It is widely used in cooking, salad dressings, and traditional dishes such as Greek salad, roasted vegetables, and grilled meat or fish. Olive trees have been cultivated in Greece for thousands of years, and olive oil has long been an important part of the Mediterranean diet. Greece is one of the world's largest producers of olive oil, and Greek olive oil is known for its strong flavor and high quality. Many regions of Greece produce olive oil, including Crete, the Peloponnese, and the Ionian Islands. The oil is commonly used both for cooking and as a finishing ingredient drizzled over dishes before serving.",
+    "token_count": 123
+  },
+  {
+    "chunk_id": "overlap_greek_salad.txt_0",
+    "source": "greek_salad.txt",
+    "strategy": "overlap_200_50",
+    "text": "Greek salad, also known as horiatiki salad, is a traditional dish in Greek cuisine made from fresh vegetables and cheese. The salad typically includes tomatoes, cucumbers, onions, olives, and feta cheese, which are combined with olive oil and sometimes vinegar or lemon juice. The ingredients are usually cut into large pieces and served without lettuce, which distinguishes the traditional version from many modern variations found outside Greece. Oregano is commonly added as a seasoning, and the dish is often finished with a drizzle of olive oil. Greek salad is widely associated with the Mediterranean diet and is known for its simple preparation and use of fresh ingredients. It is commonly served as a side dish or appetizer and is especially popular during warm weather.",
+    "token_count": 124
+  },
+  {
+    "chunk_id": "overlap_greek_yogurt.txt_0",
+    "source": "greek_yogurt.txt",
+    "strategy": "overlap_200_50",
+    "text": "Greek yogurt is a type of yogurt that is thicker and creamier than regular yogurt due to the straining process used during production. The yogurt is strained to remove much of the whey, which results in a denser texture and a higher concentration of protein. Greek yogurt has long been a staple in Greek cuisine and is commonly used in both savory and sweet dishes. It is a key ingredient in sauces such as tzatziki, which combines yogurt with cucumber, garlic, olive oil, and herbs. Because of its thick texture and rich flavor, Greek yogurt is widely consumed as a breakfast food, snack, or cooking ingredient across many Mediterranean regions.",
+    "token_count": 110
+  },
+  {
+    "chunk_id": "overlap_grilling_bbq.txt_0",
+    "source": "grilling_bbq.txt",
+    "strategy": "overlap_200_50",
+    "text": "Grilling and barbecue cooking are widely used in Mediterranean cuisine, especially for dishes such as kebabs and souvlaki. Food is cooked over an open flame, giving it a distinct flavor.",
+    "token_count": 30
+  },
+  {
+    "chunk_id": "overlap_halva.txt_0",
+    "source": "halva.txt",
+    "strategy": "overlap_200_50",
+    "text": "Halva is a sweet dessert found in many Mediterranean and Middle Eastern cuisines. It is typically made from ingredients such as sesame paste, sugar, or semolina, depending on the regional variation. Halva is often served during celebrations and is an important part of traditional dessert culture in the region.",
+    "token_count": 49
+  },
+  {
+    "chunk_id": "overlap_harissa.txt_0",
+    "source": "harissa.txt",
+    "strategy": "overlap_200_50",
+    "text": "Harissa is a chili paste commonly used in North African cuisine, particularly in countries such as Tunisia, Morocco, and Algeria. It is made from chili peppers, garlic, olive oil, and spices such as cumin and coriander. The paste is used to add heat and flavor to dishes. Harissa is often used in stews, soups, and marinades, and is a key ingredient in many traditional North African recipes.",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "overlap_herbes_de_provence.txt_0",
+    "source": "herbes_de_provence.txt",
+    "strategy": "overlap_200_50",
+    "text": "Herbes de Provence is a mixture of dried herbs traditionally associated with the cuisine of the Provence region in southeastern France. The blend is widely used in Mediterranean cooking to season meat, fish, vegetables, and stews. Typical herbs included in the mixture are thyme, rosemary, oregano, savory, and marjoram. Some modern versions also include lavender flowers, which give the blend a distinctive aroma. Herbes de Provence is commonly used to flavor grilled meats, roasted vegetables, and tomato-based dishes. The herb mixture reflects the culinary traditions of southern France and is closely linked to Mediterranean cuisine.",
+    "token_count": 95
+  },
+  {
+    "chunk_id": "overlap_hummus.txt_0",
+    "source": "hummus.txt",
+    "strategy": "overlap_200_50",
+    "text": "Hummus is a popular dip or spread originating from the Middle East and widely consumed in Mediterranean cuisine. It is made primarily from cooked chickpeas that are blended with tahini, olive oil, lemon juice, garlic, and salt. The ingredients are processed together until they form a smooth and creamy paste. Hummus is typically served as part of a mezze platter and is eaten with pita bread, vegetables, or other small dishes. The dish is common throughout countries such as Lebanon, Israel, Syria, and Turkey, and it has become popular worldwide as part of the Mediterranean diet.",
+    "token_count": 96
+  },
+  {
+    "chunk_id": "overlap_imam_bayildi.txt_0",
+    "source": "imam_bayildi.txt",
+    "strategy": "overlap_200_50",
+    "text": "İmam bayıldı is a dish in Ottoman cuisine of whole aubergine stuffed with onion, garlic and tomatoes, and simmered in olive oil. It is a zeytinyağlı dish and is found in most of the former Ottoman regions. The dish is served at room temperature or warm. The name supposedly derives from a tale of a Turkish imam who, for one reason or another, lost consciousness over the dish. In one version it is said that he swooned with pleasure at the flavour when his wife presented him with this dish, although other, perhaps more humorous accounts suggest that he fainted upon hearing the cost of the ingredients or the amount of oil used to prepare it. Another version claims he ate so much of it that he passed out.",
+    "token_count": 129
+  },
+  {
+    "chunk_id": "overlap_italian_cuisine_overview.txt_0",
+    "source": "italian_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Italian cuisine is a central part of Mediterranean cooking and is known for its use of fresh ingredients such as tomatoes, olive oil, pasta, and cheese. The cuisine varies by region, with northern Italy focusing on rice and butter-based dishes, while southern Italy emphasizes tomatoes, olive oil, and seafood. Italian cuisine includes well-known dishes such as pizza, pasta, risotto, and desserts like tiramisu.",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "overlap_italian_olive_oil.txt_0",
+    "source": "italian_olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Italian olive oil is olive oil produced in Italy and widely used in Italian cuisine. It is made by pressing olives to extract the oil and is valued for its flavor, aroma, and culinary versatility. Italy is one of the world's leading producers of olive oil, with major production regions including Tuscany, Apulia, Calabria, and Sicily. Different regions produce oils with distinct flavors depending on the olive varieties and growing conditions. Italian olive oil is commonly used for cooking, salad dressings, and finishing dishes. It is also an essential component of the Mediterranean diet and plays a central role in many traditional Italian recipes.",
+    "token_count": 104
+  },
+  {
+    "chunk_id": "overlap_jamón_ibérico.txt_0",
+    "source": "jamón_ibérico.txt",
+    "strategy": "overlap_200_50",
+    "text": "Jamón Ibérico is a type of cured ham produced in Spain and Portugal. It is made from Iberian pigs, a breed native to the Iberian Peninsula, and is considered one of the most valued cured meats in Spanish cuisine. The ham is produced by salting and air-drying the meat for an extended period, often lasting many months or even years. The flavor and texture of Jamón Ibérico depend on the pig's diet, with some of the highest-quality varieties coming from pigs that feed primarily on acorns. Jamón Ibérico is commonly served in thin slices and eaten as a tapa or appetizer. It is an important part of Spanish culinary tradition and is widely recognized as a premium delicacy.",
+    "token_count": 118
+  },
+  {
+    "chunk_id": "overlap_kebab.txt_0",
+    "source": "kebab.txt",
+    "strategy": "overlap_200_50",
+    "text": "Kebab is a dish consisting of pieces of meat that are grilled or roasted on a skewer. The dish originated in the Middle East and has become popular across many Mediterranean and Asian cuisines. Traditional kebabs are typically made from lamb, beef, or chicken that is seasoned with spices and cooked over an open flame or charcoal grill. The meat may be served on a skewer or removed and eaten with flatbread, rice, or salads. Many regional varieties of kebab exist, including shish kebab, doner kebab, and kofta kebab. The dish is widely consumed as street food and is an important part of culinary traditions in countries such as Turkey, Lebanon, and Greece.",
+    "token_count": 113
+  },
+  {
+    "chunk_id": "overlap_kibbeh.txt_0",
+    "source": "kibbeh.txt",
+    "strategy": "overlap_200_50",
+    "text": "Kibbeh is a traditional dish in Middle Eastern cuisine that is especially popular in Lebanon, Syria, and other parts of the eastern Mediterranean. It is made from a mixture of finely ground meat, bulgur wheat, and spices. The dish can be prepared in several ways. One common version involves shaping the mixture into small balls or patties that are stuffed with minced meat, onions, and pine nuts before being fried. Another variation is baked in a pan as a layered dish. Kibbeh is often served as part of a mezze platter or as a main course. It is considered an important dish in Lebanese cuisine and is widely enjoyed throughout the Mediterranean region.",
+    "token_count": 113
+  },
+  {
+    "chunk_id": "overlap_koshari.txt_0",
+    "source": "koshari.txt",
+    "strategy": "overlap_200_50",
+    "text": "Koshari, also known as kushari, is a traditional Egyptian dish made from a combination of rice, lentils, pasta, and chickpeas. It is considered Egypt’s national dish. The ingredients are layered together and topped with a spicy tomato sauce and crispy fried onions. Garlic vinegar and chili sauce are often added for extra flavor. Koshari is widely eaten as street food and is known for being both affordable and filling. It reflects the use of simple ingredients combined into a nutritious meal.",
+    "token_count": 81
+  },
+  {
+    "chunk_id": "overlap_lahmacun.txt_0",
+    "source": "lahmacun.txt",
+    "strategy": "overlap_200_50",
+    "text": "Lahmacun is a dish from Turkish cuisine consisting of thin flatbread topped with minced meat, vegetables, and spices. The topping is spread over the dough and baked in an oven. It is often served with fresh herbs, vegetables, and lemon juice. Lahmacun is commonly eaten as street food and reflects the use of simple ingredients in Mediterranean and Middle Eastern cooking.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "overlap_lamb.txt_0",
+    "source": "lamb.txt",
+    "strategy": "overlap_200_50",
+    "text": "Lamb is a traditional meat used in Mediterranean cuisine, particularly in Middle Eastern and North African regions. It is often grilled, roasted, or used in stews. Lamb is typically consumed in moderation as part of a balanced diet.",
+    "token_count": 38
+  },
+  {
+    "chunk_id": "overlap_lebanese_bread.txt_0",
+    "source": "lebanese_bread.txt",
+    "strategy": "overlap_200_50",
+    "text": "Lebanese bread, also known as pita bread or Arabic bread, is a type of flatbread commonly eaten in Lebanon and throughout the Middle East. The bread is made from wheat flour, water, yeast, and salt. During baking, the dough forms a pocket inside the bread, which allows it to be easily filled with meat, vegetables, or spreads. This characteristic makes it a popular bread for sandwiches and wraps. Lebanese bread is widely used in Mediterranean and Middle Eastern cuisine. It is often served alongside dishes such as hummus, falafel, and kebabs and is commonly used to scoop dips and sauces in traditional meals.",
+    "token_count": 103
+  },
+  {
+    "chunk_id": "overlap_lebanese_olive_oil.txt_0",
+    "source": "lebanese_olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Lebanese olive oil is olive oil produced in Lebanon and is widely used in Lebanese and Mediterranean cuisine. It is obtained by pressing olives to extract the oil and is valued for its flavor, aroma, and culinary versatility. Olive trees have been cultivated in Lebanon for thousands of years, and olive oil is an essential ingredient in many traditional Lebanese dishes. It is commonly used in cooking, salad dressings, and as a finishing ingredient for foods such as hummus, salads, and grilled vegetables. Lebanese olive oil is also an important component of the Mediterranean diet. Many regions of Lebanon produce olive oil, and traditional production methods are still widely practiced in rural areas.",
+    "token_count": 113
+  },
+  {
+    "chunk_id": "overlap_legumes.txt_0",
+    "source": "legumes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Legumes such as lentils, chickpeas, and beans are important sources of protein in Mediterranean cuisine. They are used in dishes such as soups, stews, and salads. Legumes are a key component of the Mediterranean diet due to their nutritional value.",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "overlap_lentil_soup.txt_0",
+    "source": "lentil_soup.txt",
+    "strategy": "overlap_200_50",
+    "text": "Lentil soup is a soup made primarily from lentils and is widely eaten in Mediterranean and Middle Eastern cuisines. The dish is prepared by simmering lentils with ingredients such as vegetables, herbs, and spices. Common ingredients include onions, carrots, garlic, tomatoes, and olive oil. The soup may be seasoned with spices such as cumin or coriander depending on the regional recipe. Lentil soup is valued for its simple preparation and nutritional value. It is commonly served as a starter or main dish and is especially popular in countries such as Turkey, Lebanon, and Greece.",
+    "token_count": 94
+  },
+  {
+    "chunk_id": "overlap_levantine_cuisine_overview.txt_0",
+    "source": "levantine_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Levantine cuisine refers to the traditional foods of countries such as Lebanon, Syria, and Palestine. The cuisine includes dishes such as hummus, falafel, tabbouleh, and shawarma. Meals often consist of multiple small dishes known as mezze. Levantine cuisine emphasizes fresh vegetables, olive oil, herbs, and legumes.",
+    "token_count": 46
+  },
+  {
+    "chunk_id": "overlap_loukaniko.txt_0",
+    "source": "loukaniko.txt",
+    "strategy": "overlap_200_50",
+    "text": "Loukaniko is a Greek sausage traditionally flavored with herbs and spices and sometimes with ingredients such as orange peel. It is a distinctive part of Greek cuisine. The sausage is commonly grilled or pan-fried and served as part of a main meal or mezze-style spread. Its flavor reflects the Greek use of aromatic seasoning in meat dishes. Loukaniko shows how Mediterranean cuisine combines local meats with herbs, citrus, and regional preparation styles. It is an important example of traditional Greek meat cookery.",
+    "token_count": 82
+  },
+  {
+    "chunk_id": "overlap_mediterranean_appetizers.txt_0",
+    "source": "mediterranean_appetizers.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean appetizers are small dishes that are served before the main meal in many Mediterranean cuisines. These appetizers are often designed to stimulate the appetite and introduce the flavors of the meal. Common Mediterranean appetizers include dishes such as hummus, olives, stuffed grape leaves, and small vegetable dishes. They are often served with bread or flatbread and may be accompanied by olive oil or herbs. In many Mediterranean cultures, appetizers are shared among diners as part of a social dining experience. These small dishes reflect the region's emphasis on fresh ingredients such as vegetables, olive oil, herbs, and legumes.",
+    "token_count": 99
+  },
+  {
+    "chunk_id": "overlap_mediterranean_atlantic_hybrid_cuisine.txt_0",
+    "source": "mediterranean_atlantic_hybrid_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean–Atlantic hybrid cuisine refers to food traditions that combine elements of Mediterranean and Atlantic regions. This includes the use of olive oil, seafood, and fresh ingredients, along with influences from coastal and maritime environments. Portuguese cuisine is an example of this hybrid style, combining Mediterranean cooking practices with Atlantic ingredients.",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "overlap_mediterranean_bread.txt_0",
+    "source": "mediterranean_bread.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean bread refers to a variety of traditional breads that are commonly eaten throughout Mediterranean countries. These breads are typically made from wheat flour, water, yeast, and salt. Many Mediterranean breads are flatbreads, such as pita, focaccia, and other regional varieties. These breads are often baked in ovens and may develop a pocket or soft interior that allows them to be used for sandwiches or dipping. Bread plays an important role in Mediterranean cuisine and is frequently served alongside meals. It is commonly used to scoop sauces, dips, and stews and is an essential component of many traditional dishes.",
+    "token_count": 99
+  },
+  {
+    "chunk_id": "overlap_mediterranean_breakfast.txt_0",
+    "source": "mediterranean_breakfast.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean breakfast refers to traditional morning meals eaten in countries around the Mediterranean region. These breakfasts often include simple and fresh foods that reflect the principles of the Mediterranean diet. Typical Mediterranean breakfast foods may include bread, yogurt, cheese, olives, fresh fruit, and olive oil. Coffee or tea is also commonly served. Unlike heavier breakfasts found in some other cultures, Mediterranean breakfasts are usually light and emphasize natural ingredients. The meals often focus on fresh produce, dairy products, and whole grains.",
+    "token_count": 81
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cheeses.txt_0",
+    "source": "mediterranean_cheeses.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cheeses are cheeses traditionally produced and consumed in Mediterranean countries such as Greece, Italy, France, and Spain. These cheeses are often made from sheep's milk, goat's milk, or cow's milk. Well-known Mediterranean cheeses include feta from Greece, mozzarella and parmigiano from Italy, and manchego from Spain. Each cheese has distinct flavors and textures depending on the region and production methods. Cheese is commonly used in salads, pastries, and cooked dishes throughout the Mediterranean. It is also frequently served on its own with bread, olives, and olive oil.",
+    "token_count": 88
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cooking_methods.txt_0",
+    "source": "mediterranean_cooking_methods.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cooking methods refer to the traditional ways food is prepared in Mediterranean cuisine. These methods emphasize fresh ingredients and simple techniques that highlight natural flavors. Common cooking methods include grilling, roasting, baking, and sautéing with olive oil. Vegetables, fish, and meats are often cooked over open flames or in ovens to develop rich flavors. Many Mediterranean dishes are also prepared slowly in stews or baked casseroles. These cooking techniques reflect the region's long culinary traditions and its reliance on locally available ingredients.",
+    "token_count": 83
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cooking_oils.txt_0",
+    "source": "mediterranean_cooking_oils.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cooking oils are oils traditionally used in Mediterranean cuisine for cooking and food preparation. Olive oil is the most widely used oil throughout the region. Olive oil is valued for its flavor and health benefits and is commonly used for frying, roasting, and salad dressings. Other oils such as sunflower oil or vegetable oil may also be used in certain dishes. Cooking oils play an important role in the Mediterranean diet and contribute to the characteristic flavors found in many traditional dishes.",
+    "token_count": 83
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cuisine_history.txt_0",
+    "source": "mediterranean_cuisine_history.txt",
+    "strategy": "overlap_200_50",
+    "text": "The history of Mediterranean cuisine dates back to ancient civilizations such as the Greeks, Romans, and Egyptians. These cultures developed agriculture and cooking methods that continue to influence modern cuisine. Trade routes across the Mediterranean allowed the exchange of ingredients such as spices, grains, and fruits. This cultural exchange shaped the diversity of dishes found in the region today. Over time, Mediterranean cuisine evolved into a combination of European, African, and Middle Eastern influences, forming one of the most diverse culinary traditions in the world.",
+    "token_count": 85
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cuisine_overview.txt_0",
+    "source": "mediterranean_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cuisine refers to the traditional foods and cooking styles of countries surrounding the Mediterranean Sea, including Southern Europe, North Africa, and parts of the Middle East. The cuisine is characterized by the use of fresh ingredients such as vegetables, olive oil, grains, legumes, and seafood. Herbs and spices are widely used to enhance flavor. Mediterranean cuisine has developed over thousands of years through trade, agriculture, and cultural exchange between different civilizations. It is widely recognized for its health benefits and its role in the Mediterranean diet.",
+    "token_count": 87
+  },
+  {
+    "chunk_id": "overlap_mediterranean_cultural_significance.txt_0",
+    "source": "mediterranean_cultural_significance.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cuisine has cultural significance beyond its individual dishes because it reflects shared traditions, agriculture, and social customs across countries bordering the Mediterranean Sea. Food in Mediterranean societies is closely connected to family life, hospitality, seasonal produce, and communal eating. Meals are often shared, and recipes are passed down through generations as part of cultural identity. Mediterranean cuisine also reflects historical exchange between Europe, North Africa, and the Middle East. Trade, migration, and empire helped spread ingredients, cooking methods, and food traditions across the region. As a result, Mediterranean cuisine is not a single national cuisine but a broad cultural food system shaped by geography, agriculture, and long-term social interaction.",
+    "token_count": 110
+  },
+  {
+    "chunk_id": "overlap_mediterranean_desserts.txt_0",
+    "source": "mediterranean_desserts.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean desserts are sweet dishes traditionally prepared in Mediterranean countries. These desserts often feature ingredients such as honey, nuts, fruit, and pastry. Popular Mediterranean desserts include baklava, tiramisu, and various pastries made with filo dough. Many desserts are flavored with ingredients such as cinnamon, citrus, or nuts. Mediterranean desserts are often served after meals or during celebrations. They reflect the region's culinary traditions and use of simple but flavorful ingredients.",
+    "token_count": 70
+  },
+  {
+    "chunk_id": "overlap_mediterranean_diet.txt_0",
+    "source": "mediterranean_diet.txt",
+    "strategy": "overlap_200_50",
+    "text": "The Mediterranean diet is a dietary pattern based on the traditional eating habits of countries surrounding the Mediterranean Sea, including Greece, Italy, and Spain. The diet emphasizes plant-based foods such as vegetables, fruits, whole grains, legumes, and nuts. Olive oil is the primary source of fat, while fish and seafood are consumed regularly, and red meat is eaten in smaller amounts. The Mediterranean diet is more than just food. It represents a lifestyle that includes cooking practices, social traditions, and shared meals. It has been associated with numerous health benefits and is widely recognized as one of the healthiest dietary patterns in the world.",
+    "token_count": 104
+  },
+  {
+    "chunk_id": "overlap_mediterranean_diet_vs_cuisine.txt_0",
+    "source": "mediterranean_diet_vs_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cuisine and the Mediterranean diet are related but not the same. Mediterranean cuisine refers to the wide variety of traditional foods and dishes from countries around the Mediterranean Sea. In contrast, the Mediterranean diet is a specific dietary pattern based on scientific studies of eating habits in the region. It focuses on health benefits and nutritional balance. While Mediterranean cuisine includes many different recipes and cooking styles, the Mediterranean diet emphasizes a consistent pattern of eating that promotes health and well-being.",
+    "token_count": 82
+  },
+  {
+    "chunk_id": "overlap_mediterranean_fish.txt_0",
+    "source": "mediterranean_fish.txt",
+    "strategy": "overlap_200_50",
+    "text": "Fish is an important component of Mediterranean cuisine due to the region's long coastline and access to fresh seafood. Many Mediterranean dishes feature fish as a primary ingredient. Common types of fish used in Mediterranean cooking include sea bass, sardines, tuna, and anchovies. These fish are often grilled, baked, or cooked in stews. Fish dishes are typically prepared with olive oil, herbs, and vegetables, which highlight the natural flavors of the seafood.",
+    "token_count": 72
+  },
+  {
+    "chunk_id": "overlap_mediterranean_flatbreads.txt_0",
+    "source": "mediterranean_flatbreads.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean flatbreads are thin breads traditionally eaten throughout Mediterranean countries. These breads are made from simple ingredients such as flour, water, yeast, and salt. Examples of Mediterranean flatbreads include pita, focaccia, and other regional varieties. They are often baked in ovens or cooked on hot surfaces. Flatbreads are commonly served with dips, meats, vegetables, and cheeses. They are an essential part of many Mediterranean meals.",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "overlap_mediterranean_grains.txt_0",
+    "source": "mediterranean_grains.txt",
+    "strategy": "overlap_200_50",
+    "text": "Grains are an important staple in Mediterranean cuisine and are used in many traditional dishes. Common grains include wheat, rice, barley, and bulgur. These grains are often used in breads, salads, soups, and main dishes. For example, bulgur is used in tabbouleh and rice is used in dishes such as paella or risotto. Grains provide energy and nutrition and form a central part of the Mediterranean diet.",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "overlap_mediterranean_herbs.txt_0",
+    "source": "mediterranean_herbs.txt",
+    "strategy": "overlap_200_50",
+    "text": "Herbs play an important role in Mediterranean cooking and are used to add flavor and aroma to many dishes. Fresh and dried herbs are commonly used in both simple and complex recipes. Common Mediterranean herbs include oregano, thyme, rosemary, basil, and parsley. These herbs are often combined with olive oil, garlic, and vegetables. Herbs help define the characteristic flavors of Mediterranean cuisine and are widely used in salads, sauces, and grilled dishes.",
+    "token_count": 72
+  },
+  {
+    "chunk_id": "overlap_mediterranean_key_ingredients.txt_0",
+    "source": "mediterranean_key_ingredients.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean cuisine is built around a set of key ingredients that are widely used across the region. These ingredients contribute to the flavor, nutrition, and identity of Mediterranean dishes. Olive oil is the most important cooking fat and is used in nearly all recipes. Grains such as wheat are used to produce bread and pasta, while legumes like lentils and chickpeas provide protein. Fresh vegetables, herbs such as oregano and basil, seafood, and citrus fruits are also essential components of Mediterranean cooking.",
+    "token_count": 82
+  },
+  {
+    "chunk_id": "overlap_mediterranean_legumes.txt_0",
+    "source": "mediterranean_legumes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Legumes are widely used in Mediterranean cuisine and are valued for their nutritional benefits and versatility. Common legumes include chickpeas, lentils, and beans. These ingredients are used in many dishes such as soups, stews, and salads. Chickpeas are used to make hummus, while lentils are commonly used in soups. Legumes are an important source of protein and fiber in the Mediterranean diet.",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "overlap_mediterranean_pasta_dishes.txt_0",
+    "source": "mediterranean_pasta_dishes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pasta dishes are an important part of Mediterranean cuisine, especially in Italy. Pasta is made from wheat flour and water and is commonly served with sauces. Popular Mediterranean pasta dishes include spaghetti with tomato sauce, pasta with seafood, and pasta with vegetables or cheese. Pasta dishes often use simple ingredients such as olive oil, garlic, tomatoes, and herbs to create flavorful meals.",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "overlap_mediterranean_rice_dishes.txt_0",
+    "source": "mediterranean_rice_dishes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Rice dishes are common in Mediterranean cuisine and are prepared in many different ways. Rice is often cooked with vegetables, meat, or seafood. Examples include paella from Spain and various rice dishes found in Middle Eastern and North African cuisines. Rice absorbs the flavors of spices and other ingredients, making it a versatile base for many Mediterranean meals.",
+    "token_count": 58
+  },
+  {
+    "chunk_id": "overlap_mediterranean_salads.txt_0",
+    "source": "mediterranean_salads.txt",
+    "strategy": "overlap_200_50",
+    "text": "Salads are a common part of Mediterranean meals and typically feature fresh vegetables and simple dressings. Olive oil, lemon juice, and herbs are often used to flavor these dishes. Examples include Greek salad, which contains tomatoes, cucumbers, olives, and feta cheese, as well as other vegetable salads common throughout the region. Mediterranean salads emphasize fresh ingredients and are often served as side dishes or appetizers.",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "overlap_mediterranean_sauces.txt_0",
+    "source": "mediterranean_sauces.txt",
+    "strategy": "overlap_200_50",
+    "text": "Sauces play an important role in Mediterranean cuisine and are used to enhance the flavor of many dishes. These sauces often include ingredients such as olive oil, herbs, garlic, and vegetables. Examples include tomato-based sauces, yogurt sauces like tzatziki, and sauces made from herbs and olive oil. Mediterranean sauces are often simple and focus on highlighting fresh ingredients rather than heavy seasoning.",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "overlap_mediterranean_seafood.txt_0",
+    "source": "mediterranean_seafood.txt",
+    "strategy": "overlap_200_50",
+    "text": "Seafood is widely consumed in Mediterranean cuisine due to the region's proximity to the sea. Fish, shellfish, and other seafood are important ingredients in many traditional dishes. Seafood may be grilled, baked, or cooked in stews and soups. Common seafood used in Mediterranean cooking includes shrimp, mussels, and various fish species. These dishes are typically flavored with olive oil, herbs, and vegetables.",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "overlap_mediterranean_seafood_cuisine.txt_0",
+    "source": "mediterranean_seafood_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean seafood cuisine refers to the variety of dishes prepared using fish and seafood throughout Mediterranean countries. Coastal regions rely heavily on seafood as a primary food source. Traditional seafood dishes often include grilled fish, seafood stews, and pasta with seafood. These meals are commonly flavored with olive oil, garlic, herbs, and lemon. Seafood cuisine reflects the strong connection between Mediterranean cultures and the sea.",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "overlap_mediterranean_spices.txt_0",
+    "source": "mediterranean_spices.txt",
+    "strategy": "overlap_200_50",
+    "text": "Spices are widely used in Mediterranean cooking to enhance the flavor of food. These spices are often combined with herbs and olive oil to season dishes. Common Mediterranean spices include cumin, paprika, cinnamon, and saffron. Different regions use these spices in unique ways depending on local traditions. Spices contribute to the distinctive taste and aroma associated with Mediterranean cuisine.",
+    "token_count": 59
+  },
+  {
+    "chunk_id": "overlap_mediterranean_street_food.txt_0",
+    "source": "mediterranean_street_food.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mediterranean street food refers to quick and affordable foods commonly sold in markets and street stalls throughout Mediterranean cities. Examples include kebabs, falafel, shawarma, and various flatbread sandwiches. These foods are typically prepared quickly and eaten on the go. Street food reflects the everyday eating habits of people in Mediterranean cultures and often features simple, flavorful ingredients.",
+    "token_count": 57
+  },
+  {
+    "chunk_id": "overlap_mediterranean_triad.txt_0",
+    "source": "mediterranean_triad.txt",
+    "strategy": "overlap_200_50",
+    "text": "The Mediterranean triad refers to three essential agricultural products: olive oil, wheat, and grapes. These ingredients have formed the foundation of Mediterranean cuisine for thousands of years. Wheat is used to produce bread and pasta, olive oil is the primary cooking fat, and grapes are used for fresh consumption and wine production. This combination of ingredients reflects the agricultural traditions of Mediterranean societies and continues to play a central role in the region's food culture.",
+    "token_count": 75
+  },
+  {
+    "chunk_id": "overlap_mediterranean_unesco_heritage.txt_0",
+    "source": "mediterranean_unesco_heritage.txt",
+    "strategy": "overlap_200_50",
+    "text": "The Mediterranean diet has been recognized by UNESCO as an element of Intangible Cultural Heritage. This recognition highlights that Mediterranean food traditions are not only about nutrition, but also about knowledge, customs, and shared social practices. UNESCO's recognition includes farming, fishing, food preparation, cooking, and the practice of eating together. These activities are seen as part of cultural identity in Mediterranean communities. The recognition also reflects the way food knowledge is transmitted across generations. Traditional skills such as selecting ingredients, preparing regional dishes, and sharing meals are considered part of the heritage of Mediterranean societies. This heritage status helps show that Mediterranean food culture is both a culinary and a social tradition.",
+    "token_count": 112
+  },
+  {
+    "chunk_id": "overlap_mediterranean_vegetable_dishes.txt_0",
+    "source": "mediterranean_vegetable_dishes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Vegetable dishes are an important part of Mediterranean cuisine. Many traditional recipes focus on vegetables as the main ingredient. Common vegetables used include tomatoes, eggplants, zucchini, and peppers. These vegetables are often grilled, roasted, or cooked in stews. Vegetable dishes highlight the Mediterranean emphasis on fresh produce and healthy eating.",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "overlap_mediterranean_vegetables.txt_0",
+    "source": "mediterranean_vegetables.txt",
+    "strategy": "overlap_200_50",
+    "text": "Vegetables are a central component of Mediterranean cooking and are used in many traditional dishes. The Mediterranean climate supports the cultivation of a wide variety of vegetables. Common vegetables include tomatoes, cucumbers, eggplants, peppers, onions, and leafy greens. These ingredients are used in salads, stews, and grilled dishes. Vegetables contribute to the freshness and nutritional balance associated with the Mediterranean diet.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "overlap_meze.txt_0",
+    "source": "meze.txt",
+    "strategy": "overlap_200_50",
+    "text": "Meze refers to a collection of small dishes served as appetizers in Mediterranean and Middle Eastern cuisines. These dishes are usually shared among diners and are served before the main meal. Typical meze dishes include hummus, olives, grilled vegetables, yogurt dips, and stuffed grape leaves. Bread or flatbread is often served alongside these dishes to scoop or accompany the food. Meze is an important social dining tradition in countries such as Greece, Turkey, and Lebanon. The variety of dishes highlights the use of fresh ingredients such as vegetables, olive oil, herbs, and legumes.",
+    "token_count": 93
+  },
+  {
+    "chunk_id": "overlap_meze_preparation.txt_0",
+    "source": "meze_preparation.txt",
+    "strategy": "overlap_200_50",
+    "text": "Meze preparation involves creating a variety of small dishes that are served together. It is a common practice in Mediterranean and Middle Eastern cuisine, emphasizing sharing and variety.",
+    "token_count": 28
+  },
+  {
+    "chunk_id": "overlap_mezze.txt_0",
+    "source": "mezze.txt",
+    "strategy": "overlap_200_50",
+    "text": "Mezze is a style of dining in Mediterranean and Middle Eastern cuisine in which multiple small dishes are served together. The dishes are typically shared by everyone at the table. A mezze spread may include dips such as hummus and baba ganoush, salads like tabbouleh, and small grilled or fried dishes. Bread is usually served with the meal to accompany the different dishes. Mezze meals emphasize variety and social interaction, making them an important part of culinary traditions in many Mediterranean cultures.",
+    "token_count": 82
+  },
+  {
+    "chunk_id": "overlap_minestrone.txt_0",
+    "source": "minestrone.txt",
+    "strategy": "overlap_200_50",
+    "text": "Minestrone is a traditional Italian soup made with vegetables and often beans or pasta. The soup originated in Italy and is widely eaten throughout the Mediterranean region. Typical ingredients include tomatoes, onions, carrots, celery, beans, and seasonal vegetables. The soup is usually simmered slowly to allow the flavors of the ingredients to blend together. Minestrone is commonly served as a starter or light meal and reflects the Mediterranean emphasis on fresh vegetables and simple cooking.",
+    "token_count": 75
+  },
+  {
+    "chunk_id": "overlap_molokhia.txt_0",
+    "source": "molokhia.txt",
+    "strategy": "overlap_200_50",
+    "text": "Molokhia is a traditional Egyptian dish made from the leaves of the molokhia plant, which are cooked into a thick green soup. The dish is typically prepared with garlic, coriander, and broth, and is often served with rice or bread, along with chicken or rabbit. Molokhia has a unique texture and flavor and is an important part of Egyptian home cooking.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "overlap_moroccan_mint_tea.txt_0",
+    "source": "moroccan_mint_tea.txt",
+    "strategy": "overlap_200_50",
+    "text": "Moroccan mint tea is a traditional beverage widely consumed in Morocco and other parts of North Africa. The drink is made by brewing green tea with fresh mint leaves and sugar. The tea is typically prepared in a teapot and poured from a height into small glasses, which helps create foam on the surface. The flavor is both sweet and refreshing. Moroccan mint tea is an important part of hospitality and social life in Morocco. It is commonly served to guests and enjoyed throughout the day.",
+    "token_count": 86
+  },
+  {
+    "chunk_id": "overlap_moussaka.txt_0",
+    "source": "moussaka.txt",
+    "strategy": "overlap_200_50",
+    "text": "Moussaka is a traditional Mediterranean dish that is especially associated with Greek cuisine. It is typically prepared as a baked casserole made with layers of eggplant, minced meat, and a creamy béchamel sauce. The dish is assembled by layering fried or roasted eggplant with a meat sauce that usually contains tomatoes and spices. The béchamel sauce is spread on top before baking. Moussaka is commonly served as a main course and is a well-known example of Mediterranean comfort food.",
+    "token_count": 79
+  },
+  {
+    "chunk_id": "overlap_msemen.txt_0",
+    "source": "msemen.txt",
+    "strategy": "overlap_200_50",
+    "text": "Msemen is a traditional North African flatbread, particularly associated with Moroccan cuisine. It is made from dough that is folded and layered before being cooked on a flat surface. The result is a soft, slightly crispy bread with a layered texture. Msemen can be served plain or with sweet or savory toppings and is commonly eaten for breakfast or with tea.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "overlap_neapolitan_cuisine.txt_0",
+    "source": "neapolitan_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Neapolitan cuisine is the traditional cuisine of Naples and the surrounding region in southern Italy. It is one of the most influential regional cuisines in the Mediterranean. The cuisine is known for dishes such as pizza, tomato-based sauces, pasta, seafood, and fried street foods. Olive oil, tomatoes, and simple fresh ingredients are especially important. Neapolitan cuisine developed in a coastal urban environment, which helped shape its strong connection to both local agriculture and maritime trade. This contributed to the spread of ingredients and dishes that became widely recognized across Italy and beyond. Its regional identity makes it a central part of Mediterranean culinary history.",
+    "token_count": 104
+  },
+  {
+    "chunk_id": "overlap_neapolitan_vs_sicilian_styles.txt_0",
+    "source": "neapolitan_vs_sicilian_styles.txt",
+    "strategy": "overlap_200_50",
+    "text": "Neapolitan and Sicilian cuisine are both important regional cuisines of southern Italy, but they differ in emphasis, history, and typical dishes. Neapolitan cuisine is strongly associated with Naples and is especially known for pizza, pasta, tomato sauces, and urban street foods. Its style often focuses on simple dishes built around a few fresh ingredients. Sicilian cuisine reflects the island history of Sicily and includes stronger influences from different Mediterranean cultures. It is notable for the use of seafood, eggplant, citrus, almonds, sweets, and dishes that show Arab and other external influences. Both cuisines are part of Italian and Mediterranean food culture, but they represent different regional culinary identities.",
+    "token_count": 108
+  },
+  {
+    "chunk_id": "overlap_north_african_cuisine_overview.txt_0",
+    "source": "north_african_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "North African cuisine, also known as Maghrebi cuisine, includes the traditional foods of countries such as Morocco, Algeria, and Tunisia. The cuisine is known for dishes such as couscous, tagine, and harissa. Spices play an important role, including cumin, saffron, and cinnamon. North African cuisine reflects a blend of Mediterranean and Middle Eastern influences.",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "overlap_olive_oil.txt_0",
+    "source": "olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Olive oil is a vegetable oil obtained from olives and is one of the most important ingredients in Mediterranean cuisine. It is widely used for cooking, frying, and dressing food. Olive oil is rich in healthy fats and is a key component of the Mediterranean diet. It has been associated with health benefits, including reduced risk of heart disease.",
+    "token_count": 59
+  },
+  {
+    "chunk_id": "overlap_oregano.txt_0",
+    "source": "oregano.txt",
+    "strategy": "overlap_200_50",
+    "text": "Oregano is a herb widely used in Mediterranean cooking, particularly in Greek, Italian, and Spanish cuisine. It is known for its strong, earthy flavor and is commonly added to meat, vegetables, sauces, and salads. Oregano is often used with olive oil, tomatoes, garlic, and lemon. It is a key seasoning in dishes such as Greek salad, pizza, and many roasted or grilled foods. The herb can be used fresh or dried, although dried oregano is especially common in traditional recipes. It is also often included in Mediterranean herb blends. Oregano helps define the flavor of many classic Mediterranean dishes and is one of the region's most important herbs.",
+    "token_count": 108
+  },
+  {
+    "chunk_id": "overlap_paella.txt_0",
+    "source": "paella.txt",
+    "strategy": "overlap_200_50",
+    "text": "Paella is a traditional Spanish rice dish that originated in the region of Valencia. The dish is cooked in a wide shallow pan and is known for its distinctive flavor and colorful ingredients. Paella typically includes rice cooked with saffron, vegetables, and a variety of meats or seafood. Common ingredients include chicken, rabbit, shrimp, and mussels. Paella is often prepared for gatherings and celebrations and is considered one of the most famous dishes in Spanish cuisine.",
+    "token_count": 76
+  },
+  {
+    "chunk_id": "overlap_parmigiano-reggiano.txt_0",
+    "source": "parmigiano-reggiano.txt",
+    "strategy": "overlap_200_50",
+    "text": "Parmigiano Reggiano is a hard Italian cheese produced in specific regions of northern Italy. It is made from cow's milk and aged for a long period, which gives it a strong flavor and firm texture. The cheese is commonly grated over pasta dishes, soups, and salads. It can also be eaten on its own or served with bread and fruit. Parmigiano Reggiano is considered one of the most important cheeses in Italian cuisine and is widely used throughout Mediterranean cooking.",
+    "token_count": 80
+  },
+  {
+    "chunk_id": "overlap_passata.txt_0",
+    "source": "passata.txt",
+    "strategy": "overlap_200_50",
+    "text": "Passata is a smooth tomato puree widely used in Italian cooking. It is made by straining tomatoes to remove skins and seeds, producing a smooth liquid base for sauces and other dishes. It is commonly used in pasta sauces, soups, stews, and baked dishes. Passata provides tomato flavor without the chunkier texture of chopped tomatoes. Tomatoes are one of the most important ingredients in Mediterranean cuisine, especially in southern Italy, and passata is a convenient form in which they are preserved and used in cooking. Passata is therefore an important ingredient in many Italian and Mediterranean recipes.",
+    "token_count": 97
+  },
+  {
+    "chunk_id": "overlap_pasta.txt_0",
+    "source": "pasta.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pasta is one of the most important staple foods in Italian cuisine and a major part of Mediterranean food culture. It is made primarily from wheat and water, although some forms also include eggs. Pasta comes in many shapes and sizes, including long forms such as spaghetti and flat ribbons such as fettuccine, as well as short shapes like penne. Different pasta shapes are often paired with different sauces and ingredients. Pasta dishes are usually prepared with simple ingredients such as olive oil, tomatoes, cheese, vegetables, and herbs. Seafood, meat, and legumes may also be added depending on the region and recipe. Because of its versatility and central role in Italian food, pasta is one of the defining foods of Mediterranean cuisine.",
+    "token_count": 122
+  },
+  {
+    "chunk_id": "overlap_pasta_making.txt_0",
+    "source": "pasta_making.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pasta making involves combining flour and water or eggs to form dough, which is then shaped and cooked. It is a fundamental technique in Italian cuisine.",
+    "token_count": 26
+  },
+  {
+    "chunk_id": "overlap_pastel_de_nata.txt_0",
+    "source": "pastel_de_nata.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pastéis de nata are traditional Portuguese custard tarts made with a flaky pastry shell and a rich egg custard filling. They are one of the most famous desserts in Portuguese cuisine and are closely associated with Lisbon. The tarts are baked at a high temperature so that the pastry becomes crisp and the top of the custard develops dark caramelized spots. They are often served warm and may be dusted with cinnamon or powdered sugar before eating. Pastéis de nata developed from older convent pastry traditions in Portugal, where egg yolks were widely used in desserts. Today they are eaten in bakeries, cafés, and homes across Portugal and are also popular internationally. Although Portuguese cuisine has Atlantic influences, pastéis de nata also fit within a broader Mediterranean food culture through their use of pastry, eggs, and long-standing regional culinary traditions.",
+    "token_count": 140
+  },
+  {
+    "chunk_id": "overlap_pastilla.txt_0",
+    "source": "pastilla.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pastilla is a traditional Moroccan dish that combines sweet and savory flavors. The dish is typically made with layers of thin pastry filled with meat, spices, and nuts. The filling often includes chicken or pigeon mixed with almonds, eggs, and aromatic spices such as cinnamon. The pastry is baked until crisp and sometimes dusted with powdered sugar. Pastilla is commonly served during special occasions and celebrations and is an important dish in Moroccan cuisine.",
+    "token_count": 74
+  },
+  {
+    "chunk_id": "overlap_patatas_bravas.txt_0",
+    "source": "patatas_bravas.txt",
+    "strategy": "overlap_200_50",
+    "text": "Patatas bravas is a popular Spanish tapa consisting of fried potato cubes served with a spicy tomato-based sauce. The dish originated in Spain and is widely eaten throughout the country. The potatoes are usually fried until crispy and then topped with a sauce that may include tomatoes, paprika, garlic, and chili peppers. Patatas bravas are commonly served in bars and restaurants as part of a tapas meal and are one of the most recognizable Spanish appetizer dishes.",
+    "token_count": 77
+  },
+  {
+    "chunk_id": "overlap_penne.txt_0",
+    "source": "penne.txt",
+    "strategy": "overlap_200_50",
+    "text": "Penne is a short tube-shaped pasta with angled ends and is widely used in Italian cuisine. Its ridged or smooth surface helps it hold sauces well. Penne is commonly served with tomato sauce, pesto, cream sauces, vegetables, or baked in oven dishes. Its shape makes it suitable for both simple and rich preparations. Like other forms of pasta, penne is made mainly from wheat and water and is a common part of everyday Italian cooking. Penne is one of the most versatile pasta shapes and is an important component of Mediterranean cuisine.",
+    "token_count": 92
+  },
+  {
+    "chunk_id": "overlap_pesto.txt_0",
+    "source": "pesto.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pesto is a sauce associated with Italian cuisine, especially the Ligurian city of Genoa. It is traditionally made by crushing basil, garlic, pine nuts, olive oil, and cheese into a paste. The sauce is commonly served with pasta, but it can also be used on bread, vegetables, or other dishes. Its flavor depends on the freshness of the basil and the balance of the ingredients. Pesto reflects several core elements of Mediterranean cooking, including the use of herbs, olive oil, and simple preparation methods. It is an important example of how Mediterranean cuisine uses fresh ingredients to create strong but balanced flavors.",
+    "token_count": 102
+  },
+  {
+    "chunk_id": "overlap_pide.txt_0",
+    "source": "pide.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pide is a type of Turkish flatbread that is often topped with various ingredients and baked in an oven. It is sometimes described as Turkish pizza because of its shape and toppings. Common toppings include minced meat, cheese, vegetables, or eggs. The bread is shaped into a long oval form and baked until the crust becomes crisp. Pide is widely eaten in Turkey and is often served in restaurants or bakeries as a main meal or snack.",
+    "token_count": 77
+  },
+  {
+    "chunk_id": "overlap_pissaladiere.txt_0",
+    "source": "pissaladiere.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pissaladiere is a traditional dish from the Provence region of southern France. It is similar to a flatbread or pizza and is topped with onions, anchovies, and olives. The dish reflects Mediterranean ingredients such as olive oil and seafood. Pissaladiere is an example of regional French cuisine influenced by Mediterranean cooking traditions.",
+    "token_count": 52
+  },
+  {
+    "chunk_id": "overlap_pizza.txt_0",
+    "source": "pizza.txt",
+    "strategy": "overlap_200_50",
+    "text": "Pizza is a popular Italian dish consisting of a round flatbread topped with tomato sauce, cheese, and various ingredients. The dish originated in Italy and has become one of the most widely consumed foods in the world. Traditional pizza is baked in an oven and often topped with ingredients such as mozzarella cheese, vegetables, meats, or herbs. Pizza is strongly associated with Italian cuisine but is now enjoyed in many countries and has developed numerous regional variations.",
+    "token_count": 77
+  },
+  {
+    "chunk_id": "overlap_preserved_lemon.txt_0",
+    "source": "preserved_lemon.txt",
+    "strategy": "overlap_200_50",
+    "text": "Preserved lemons are lemons that have been pickled in salt and their own juice. They are commonly used in North African and Mediterranean cooking, especially in Moroccan cuisine. The preservation process softens the lemon peel and gives it a strong, salty, and slightly sour flavor. The peel is often the part used in cooking. Preserved lemons are frequently added to dishes such as tagine to enhance the flavor with citrus notes.",
+    "token_count": 71
+  },
+  {
+    "chunk_id": "overlap_provencal_cuisine.txt_0",
+    "source": "provencal_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Provençal cuisine refers to the traditional cooking of the Provence region in southeastern France. The cuisine reflects the Mediterranean climate and local agricultural products. Common ingredients include olive oil, garlic, tomatoes, herbs, and fresh vegetables. Seafood is also widely used because of the region's coastal location. Provençal cuisine is known for its simple preparation methods that highlight the natural flavors of fresh ingredients.",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "overlap_ras_el_hanout.txt_0",
+    "source": "ras_el_hanout.txt",
+    "strategy": "overlap_200_50",
+    "text": "Ras el hanout is a spice blend widely used in North African cuisine. The name means “head of the shop,” referring to a mixture of the best spices available. The blend may include ingredients such as cumin, coriander, cinnamon, turmeric, and other spices. The exact composition varies depending on the region and the cook. Ras el hanout is commonly used to season meat, rice, and tagine dishes, and is an important part of Moroccan and Maghrebi cooking.",
+    "token_count": 77
+  },
+  {
+    "chunk_id": "overlap_ratatouille.txt_0",
+    "source": "ratatouille.txt",
+    "strategy": "overlap_200_50",
+    "text": "Ratatouille is a traditional French vegetable dish that originated in the Provence region. It is made by slowly cooking vegetables such as eggplant, zucchini, tomatoes, peppers, and onions. The vegetables are usually sautéed or stewed together with olive oil and herbs such as thyme or basil. Ratatouille is commonly served as a side dish but can also be eaten as a main vegetarian meal.",
+    "token_count": 64
+  },
+  {
+    "chunk_id": "overlap_rfissa.txt_0",
+    "source": "rfissa.txt",
+    "strategy": "overlap_200_50",
+    "text": "Rfissa is a traditional Moroccan dish made with shredded flatbread served with chicken, lentils, and a flavorful sauce. The dish is often prepared for special occasions. The sauce is typically seasoned with spices such as fenugreek, ginger, and saffron. The bread absorbs the sauce and flavors. Rfissa is an important dish in Moroccan cuisine and is often served during family gatherings.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "overlap_ribollita.txt_0",
+    "source": "ribollita.txt",
+    "strategy": "overlap_200_50",
+    "text": "Ribollita is a traditional Tuscan soup from Italy made with bread, beans, and vegetables. It is a rustic dish that reflects the use of simple and inexpensive ingredients in regional cuisine. The soup commonly includes ingredients such as cabbage, beans, onions, carrots, and stale bread. It is cooked slowly so that the flavors of the vegetables and legumes combine. Ribollita is associated with peasant cooking and the practice of making nutritious meals from leftover ingredients. This reflects a broader Mediterranean tradition of avoiding waste and using seasonal produce. It is an important dish in Italian regional cuisine and a good example of Mediterranean vegetable-based cooking.",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "overlap_risotto.txt_0",
+    "source": "risotto.txt",
+    "strategy": "overlap_200_50",
+    "text": "Risotto is a traditional Italian rice dish cooked slowly with broth until it develops a creamy texture. The dish originated in northern Italy. The rice is usually cooked with ingredients such as butter, onions, cheese, and sometimes vegetables or seafood. Risotto is served as a main dish or starter and is known for its rich and creamy consistency.",
+    "token_count": 58
+  },
+  {
+    "chunk_id": "overlap_rosemary.txt_0",
+    "source": "rosemary.txt",
+    "strategy": "overlap_200_50",
+    "text": "Rosemary is a fragrant herb commonly used in Mediterranean cuisine. It has a strong aroma and is often used to season roasted meats, vegetables, breads, and potatoes. The herb is especially common in southern European cooking, where it is often combined with olive oil, garlic, and other herbs. Rosemary is used both fresh and dried depending on the recipe. Its flavor works well in grilled and roasted dishes, which are important cooking methods in Mediterranean food traditions. Rosemary is also associated with rustic and regional home cooking. Because of its strong flavor and wide use, rosemary is one of the characteristic herbs of Mediterranean cuisine.",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "overlap_saffron.txt_0",
+    "source": "saffron.txt",
+    "strategy": "overlap_200_50",
+    "text": "Saffron is a spice derived from the Crocus flower and is used in Mediterranean cooking, especially in dishes such as paella. It is valued for its flavor, color, and aroma. Saffron is one of the most expensive spices in the world.",
+    "token_count": 41
+  },
+  {
+    "chunk_id": "overlap_salade_nicoise.txt_0",
+    "source": "salade_nicoise.txt",
+    "strategy": "overlap_200_50",
+    "text": "Salade Niçoise is a traditional French salad that originated in the city of Nice. The salad typically includes tomatoes, olives, tuna, boiled eggs, and vegetables. The ingredients are usually dressed with olive oil and sometimes vinegar or herbs. Salade Niçoise is widely associated with Mediterranean cuisine and is commonly served as a light meal.",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "overlap_seafood.txt_0",
+    "source": "seafood.txt",
+    "strategy": "overlap_200_50",
+    "text": "Seafood is widely consumed in Mediterranean regions due to the proximity to the sea. Fish and shellfish are commonly used in traditional dishes and are an important source of protein. Seafood plays a major role in the Mediterranean diet.",
+    "token_count": 39
+  },
+  {
+    "chunk_id": "overlap_seafood_paella.txt_0",
+    "source": "seafood_paella.txt",
+    "strategy": "overlap_200_50",
+    "text": "Seafood paella is a variation of the traditional Spanish paella dish that focuses on seafood as the main ingredient. The dish is made by cooking rice with ingredients such as shrimp, mussels, squid, and fish, along with saffron and vegetables. Seafood paella is commonly served in coastal regions of Spain and is popular in Mediterranean seafood cuisine.",
+    "token_count": 57
+  },
+  {
+    "chunk_id": "overlap_seafood_stew.txt_0",
+    "source": "seafood_stew.txt",
+    "strategy": "overlap_200_50",
+    "text": "Seafood stew is a dish made by cooking fish and shellfish together with vegetables, herbs, and broth. It is commonly found in coastal Mediterranean cuisines. Typical ingredients include fish, shrimp, mussels, tomatoes, garlic, and olive oil. Seafood stew reflects the Mediterranean tradition of preparing fresh seafood with simple ingredients.",
+    "token_count": 49
+  },
+  {
+    "chunk_id": "overlap_shawarma.txt_0",
+    "source": "shawarma.txt",
+    "strategy": "overlap_200_50",
+    "text": "Shawarma is a Middle Eastern dish made from meat that is cooked on a vertical rotisserie. The meat is sliced thinly and served in flatbread or pita. Common meats used include chicken, lamb, or beef. The dish is usually served with vegetables and sauces such as garlic sauce or tahini. Shawarma is widely consumed as street food across the Mediterranean and Middle East.",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "overlap_shish_kebab.txt_0",
+    "source": "shish_kebab.txt",
+    "strategy": "overlap_200_50",
+    "text": "Shish kebab is a dish consisting of skewered and grilled pieces of meat, commonly found in Turkish and Middle Eastern cuisine. The meat, which may include lamb, chicken, or beef, is usually marinated before being cooked over an open flame. Shish kebab is often served with bread, rice, vegetables, and sauces, and is a popular example of grilled cooking in Mediterranean cuisine.",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "overlap_sicilian_cuisine.txt_0",
+    "source": "sicilian_cuisine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Sicilian cuisine is the regional cuisine of Sicily and reflects the island's long history of cultural exchange in the Mediterranean. It includes pasta, seafood, rice dishes, sweets, and strong use of ingredients such as eggplant, citrus, almonds, tomatoes, and olive oil. The cuisine also shows influences from Arab, Greek, Norman, and Spanish traditions. Because Sicily sits at the center of Mediterranean trade routes, its cuisine developed as a mix of local products and external influences. This makes it especially rich in variation and historical depth. Sicilian cuisine is one of the most distinctive regional cuisines in the Mediterranean world.",
+    "token_count": 99
+  },
+  {
+    "chunk_id": "overlap_slow_braising.txt_0",
+    "source": "slow_braising.txt",
+    "strategy": "overlap_200_50",
+    "text": "Braising is a cooking method in which food is cooked slowly in liquid over low heat. It is commonly used for meat and vegetable dishes in Mediterranean cuisine, allowing flavors to develop over time.",
+    "token_count": 34
+  },
+  {
+    "chunk_id": "overlap_socca.txt_0",
+    "source": "socca.txt",
+    "strategy": "overlap_200_50",
+    "text": "Socca is a thin pancake made from chickpea flour and is a traditional dish from southern France, particularly in Nice. It is cooked in a hot oven and often served as street food. The dish is simple, using only a few ingredients such as chickpea flour, water, olive oil, and salt. Socca reflects the use of legumes and simple preparation methods in Mediterranean cuisine.",
+    "token_count": 64
+  },
+  {
+    "chunk_id": "overlap_souvlaki.txt_0",
+    "source": "souvlaki.txt",
+    "strategy": "overlap_200_50",
+    "text": "Souvlaki is a popular Greek dish consisting of small pieces of meat grilled on a skewer. The meat is usually pork, chicken, or lamb and is seasoned with herbs and spices before grilling. Souvlaki is commonly served with pita bread, vegetables, and sauces such as tzatziki.",
+    "token_count": 46
+  },
+  {
+    "chunk_id": "overlap_spaghetti.txt_0",
+    "source": "spaghetti.txt",
+    "strategy": "overlap_200_50",
+    "text": "Spaghetti is a long, thin form of pasta that is closely associated with Italian cuisine. It is made from wheat and water and is usually boiled before being served with a sauce. Spaghetti is commonly paired with tomato-based sauces, olive oil and garlic, seafood, or cheese. Its shape makes it especially suitable for smooth and moderately thick sauces. The dish is widely recognized internationally, but it remains strongly linked to Italian culinary tradition. It is a classic example of how simple ingredients can be combined into a central Mediterranean meal. Spaghetti is one of the best-known forms of pasta and an important part of Italian cuisine.",
+    "token_count": 106
+  },
+  {
+    "chunk_id": "overlap_spanakopita.txt_0",
+    "source": "spanakopita.txt",
+    "strategy": "overlap_200_50",
+    "text": "Spanakopita is a traditional Greek savory pastry made with spinach and cheese wrapped in layers of filo dough. The filling usually includes spinach, feta cheese, onions, and herbs. Spanakopita is baked until the pastry becomes crisp and is often served as a snack or appetizer.",
+    "token_count": 45
+  },
+  {
+    "chunk_id": "overlap_spanish_cuisine_overview.txt_0",
+    "source": "spanish_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Spanish cuisine is diverse and influenced by regional traditions across Spain. It is an important part of Mediterranean food culture. Famous Spanish dishes include paella, gazpacho, tortilla española, and tapas. Olive oil and seafood are widely used ingredients. Spanish cuisine combines traditional cooking methods with influences from history and regional agriculture.",
+    "token_count": 51
+  },
+  {
+    "chunk_id": "overlap_spanish_olive_oil.txt_0",
+    "source": "spanish_olive_oil.txt",
+    "strategy": "overlap_200_50",
+    "text": "Spanish olive oil is olive oil produced in Spain and is widely used in Spanish cuisine. Spain is one of the world's largest producers of olive oil. The oil is obtained by pressing olives and is commonly used for cooking, salad dressings, and finishing dishes. Spanish olive oil is an important component of the Mediterranean diet and plays a central role in many traditional recipes.",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "overlap_tabbouleh.txt_0",
+    "source": "tabbouleh.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tabbouleh is a traditional Middle Eastern salad made primarily from parsley, bulgur wheat, tomatoes, and onions. The salad is usually dressed with olive oil and lemon juice and may include herbs such as mint. Tabbouleh is widely eaten in Lebanese cuisine and is often served as part of a mezze meal.",
+    "token_count": 51
+  },
+  {
+    "chunk_id": "overlap_tagine.txt_0",
+    "source": "tagine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tagine is a traditional Moroccan dish named after the earthenware pot in which it is cooked. The dish typically consists of meat, poultry, or fish cooked slowly with vegetables, spices, and sometimes dried fruits. Tagine is a central dish in Moroccan cuisine and is known for its rich flavor created by slow cooking.",
+    "token_count": 53
+  },
+  {
+    "chunk_id": "overlap_tagine_slow_cook.txt_0",
+    "source": "tagine_slow_cook.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tagine cooking is a slow-cooking method used in North African cuisine. Food is cooked in a covered clay pot, allowing steam to circulate and flavors to develop.",
+    "token_count": 27
+  },
+  {
+    "chunk_id": "overlap_tapas.txt_0",
+    "source": "tapas.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tapas are small dishes or snacks served in Spanish cuisine, often with drinks or as part of a shared meal. They are strongly associated with Spanish food culture and social dining. Tapas can include a wide variety of foods such as olives, cheese, cured meats, fried potatoes, seafood, and vegetable dishes. Some are simple ingredients served directly, while others are prepared dishes. The tradition of eating tapas encourages sharing and variety, allowing diners to taste several different foods in one sitting. This makes tapas an important social and culinary practice. Tapas are one of the defining features of Spanish Mediterranean cuisine.",
+    "token_count": 101
+  },
+  {
+    "chunk_id": "overlap_tapenade.txt_0",
+    "source": "tapenade.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tapenade is a Mediterranean spread made primarily from olives, capers, and olive oil. The ingredients are blended together to create a thick paste that is often spread on bread or served with vegetables. Tapenade originated in the Provence region of France and is commonly served as an appetizer.",
+    "token_count": 48
+  },
+  {
+    "chunk_id": "overlap_tiramisu.txt_0",
+    "source": "tiramisu.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tiramisu is a popular Italian dessert made with layers of coffee-soaked biscuits and a creamy mixture of mascarpone cheese, eggs, and sugar. The dessert is usually flavored with cocoa powder and sometimes coffee liqueur. Tiramisu is widely known as one of the most famous Italian desserts.",
+    "token_count": 46
+  },
+  {
+    "chunk_id": "overlap_tomato.txt_0",
+    "source": "tomato.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tomatoes are widely used in Mediterranean cuisine and are a key ingredient in many dishes such as sauces, salads, and stews. They provide flavor, color, and nutrients and are commonly combined with olive oil and herbs. Tomatoes are especially important in Italian and Spanish cooking.",
+    "token_count": 45
+  },
+  {
+    "chunk_id": "overlap_tortilla_española.txt_0",
+    "source": "tortilla_española.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tortilla española is a traditional Spanish dish made with eggs and potatoes. The ingredients are cooked together in olive oil to form a thick omelette. Onions are sometimes added depending on the recipe. The dish is commonly served as a tapa or light meal in Spain.",
+    "token_count": 46
+  },
+  {
+    "chunk_id": "overlap_turkish_delight.txt_0",
+    "source": "turkish_delight.txt",
+    "strategy": "overlap_200_50",
+    "text": "Turkish delight is a sweet confection that originated in Turkey. The dessert is made from sugar and starch and is often flavored with ingredients such as rosewater, citrus, or nuts. Turkish delight is typically cut into small cubes and coated with powdered sugar.",
+    "token_count": 43
+  },
+  {
+    "chunk_id": "overlap_turkish_ottoman_cuisine_overview.txt_0",
+    "source": "turkish_ottoman_cuisine_overview.txt",
+    "strategy": "overlap_200_50",
+    "text": "Turkish cuisine has been influenced by the Ottoman Empire and is an important part of Mediterranean and Middle Eastern food traditions. Common dishes include kebabs, börek, dolma, and baklava. The cuisine uses a wide variety of spices, meats, and vegetables. Turkish cuisine reflects a blend of Central Asian, Middle Eastern, and Mediterranean influences.",
+    "token_count": 53
+  },
+  {
+    "chunk_id": "overlap_turkish_tea.txt_0",
+    "source": "turkish_tea.txt",
+    "strategy": "overlap_200_50",
+    "text": "Turkish tea is a traditional hot beverage widely consumed in Turkey and neighboring Mediterranean regions. The tea is made from black tea leaves and is typically brewed using a special two-level teapot called a çaydanlık. The tea is prepared by brewing strong tea in the upper pot while boiling water in the lower pot. The strong tea is then diluted with hot water to adjust the strength according to personal preference. Turkish tea is usually served in small tulip-shaped glasses and is commonly enjoyed throughout the day. It is an important part of Turkish culture and is often offered to guests as a sign of hospitality.",
+    "token_count": 106
+  },
+  {
+    "chunk_id": "overlap_tzatziki.txt_0",
+    "source": "tzatziki.txt",
+    "strategy": "overlap_200_50",
+    "text": "Tzatziki is a traditional Greek sauce or dip made from yogurt, cucumber, garlic, olive oil, and herbs. It is widely used in Greek and Mediterranean cuisine. The sauce is prepared by mixing strained yogurt with grated cucumber, garlic, olive oil, and sometimes lemon juice or vinegar. Fresh herbs such as dill or mint may also be added for flavor. Tzatziki is commonly served as a dip with bread or vegetables and is also used as a sauce for dishes such as souvlaki and grilled meats.",
+    "token_count": 85
+  },
+  {
+    "chunk_id": "overlap_wheat.txt_0",
+    "source": "wheat.txt",
+    "strategy": "overlap_200_50",
+    "text": "Wheat is a staple grain in Mediterranean cuisine and is used to produce bread, pasta, and other foods. It has been cultivated in the region for thousands of years and remains a key part of the Mediterranean diet. Wheat products such as bread and pasta are consumed daily in many Mediterranean countries.",
+    "token_count": 52
+  },
+  {
+    "chunk_id": "overlap_wikibooks_mediterranean_recipes.txt_0",
+    "source": "wikibooks_mediterranean_recipes.txt",
+    "strategy": "overlap_200_50",
+    "text": "Wikibooks provides a collection of Mediterranean recipes that include dishes such as hummus, paella, moussaka, and tzatziki. These recipes describe preparation methods and ingredients in detail. They are useful for understanding how traditional Mediterranean dishes are prepared.",
+    "token_count": 37
+  },
+  {
+    "chunk_id": "overlap_wine.txt_0",
+    "source": "wine.txt",
+    "strategy": "overlap_200_50",
+    "text": "Wine is an important agricultural and cultural product in Mediterranean regions. It is made from fermented grapes and has played a major role in Mediterranean societies for thousands of years. Wine production is closely linked to the Mediterranean climate, which supports grape cultivation. Countries such as Italy, Spain, Greece, and France are well known for their wine traditions. In Mediterranean food culture, wine has often been associated with meals, hospitality, and regional identity. It is also part of the historical Mediterranean triad of grapes, wheat, and olives. Because of its long history and strong connection to agriculture, wine is an important ingredient and cultural product in Mediterranean cuisine.",
+    "token_count": 108
+  },
+  {
+    "chunk_id": "overlap_wood_fired_oven.txt_0",
+    "source": "wood_fired_oven.txt",
+    "strategy": "overlap_200_50",
+    "text": "Wood-fired ovens are traditionally used in Mediterranean cooking, especially for baking bread and pizza. They provide high heat and contribute to the texture and flavor of the food.",
+    "token_count": 28
+  },
+  {
+    "chunk_id": "overlap_zaalouk.txt_0",
+    "source": "zaalouk.txt",
+    "strategy": "overlap_200_50",
+    "text": "Zaalouk is a traditional Moroccan dish made from cooked eggplant and tomatoes. It is commonly served as a salad or dip in Moroccan cuisine. The dish is prepared by cooking eggplant and tomatoes with olive oil, garlic, and spices such as cumin and paprika. The ingredients are usually mashed or blended together to create a thick mixture. Zaalouk is typically served warm or at room temperature and is often eaten with bread. It is a popular appetizer in Moroccan meals and is commonly included as part of a mezze-style spread.",
+    "token_count": 90
+  }
+]

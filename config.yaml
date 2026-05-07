@@ -1,0 +1,49 @@
+# Mediterranean Culinary RAG — configuration
+# Edit values here; no code changes needed to swap strategies.
+
+paths:
+  corpus_zip: data/Background_Corpus_All.zip
+  benchmark:  data/qa_benchmark_dataset.json
+  artifacts:  artifacts          # where chunks, embeddings, indices live
+
+chunking:
+  strategy: overlapping           # fixed_200 | fixed_400 | sentence | overlapping
+  size: 200                       # tokens per chunk (for fixed / overlapping)
+  overlap: 50                     # token overlap (for overlapping only)
+  max_sentences: 5                # for sentence strategy
+
+embedding:
+  model: BAAI/bge-small-en-v1.5
+  query_prefix: "Represent this sentence for searching relevant passages: "
+  batch_size: 32
+
+retrieval:
+  strategy: hybrid                # dense | bm25 | hybrid
+  hybrid_alpha: 0.6               # dense weight; bm25 weight = 1 - alpha
+  top_k: 5                        # spec maximum
+
+generation:
+  # Three backends supported. Switch by setting backend + model:
+  #
+  # 1. gemini (DEFAULT): free Google AI Studio, no credit card. Get a key at
+  #    https://aistudio.google.com/apikey, then `export GEMINI_API_KEY=AIza...`.
+  #    Model options:
+  #      - gemini-2.5-flash       (recommended — strong, free, 1500 req/day)
+  #      - gemini-2.0-flash       (older, also free)
+  #
+  # 2. groq: free OpenAI-compatible API, no credit card. Get a key at
+  #    console.groq.com, then `export GROQ_API_KEY=gsk_...`. Model options:
+  #      - llama-3.3-70b-versatile   (strong)
+  #      - llama-3.1-8b-instant      (faster)
+  #
+  # 3. local: runs Qwen 2.5-0.5B locally via transformers (coursework constraint).
+  #    Slower; segfaults on some macOS / transformers 5.x combinations.
+  #      backend: local
+  #      model: Qwen/Qwen2.5-0.5B-Instruct
+  backend: gemini
+  model: gemini-2.5-flash
+  prompt_style: instructed        # basic | instructed | role_based | cot
+  max_new_tokens: 150
+  do_sample: false
+
+cuisine: Mediterranean            # used in role_based prompt
