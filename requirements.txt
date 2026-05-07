@@ -1,6 +1,8 @@
 # Streamlit Cloud reads this file directly.
 # Slim runtime: just enough to serve the demo. No torch/transformers — the
 # cloud deployment only uses the Gemini backend, not the local Qwen model.
+
+# Direct dependencies
 numpy
 sentence-transformers
 faiss-cpu
@@ -10,3 +12,8 @@ pyyaml
 openai
 google-genai
 streamlit
+
+# Install the rag_culinary package itself from this repo (equivalent to
+# `pip install -e .`). This must come last so its dependencies above are
+# already resolved.
+.

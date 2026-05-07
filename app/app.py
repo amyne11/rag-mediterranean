@@ -4,12 +4,24 @@ Run with:
     streamlit run app/app.py
 
 Make sure you've already run `python scripts/build_index.py` once and that
-GROQ_API_KEY is set in your environment.
+GEMINI_API_KEY (or GROQ_API_KEY) is set in your environment.
 """
 from __future__ import annotations
 
 import os
+import sys
 import time
+from pathlib import Path
+
+# Ensure src/ is on sys.path so `from rag_culinary import ...` works even when
+# the package hasn't been pip-installed (e.g. running `streamlit run app/app.py`
+# directly from a fresh checkout). On Streamlit Cloud the package is also
+# installed via `requirements.txt` (the trailing `.`), but this shim is a
+# belt-and-braces fallback that costs nothing.
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+_SRC = _REPO_ROOT / "src"
+if _SRC.exists() and str(_SRC) not in sys.path:
+    sys.path.insert(0, str(_SRC))
 
 import streamlit as st
 
